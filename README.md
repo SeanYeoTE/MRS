@@ -1,4 +1,4 @@
-# CV1014-Python-Project
+Python Data Science Mini Project
 
 Movie Recommendation System
 
